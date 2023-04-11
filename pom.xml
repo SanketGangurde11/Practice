@@ -36,6 +36,10 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		</plugins>
+		<finalName>practice</finalName>
+	</build>
+
 	</build>
 
 </project>
